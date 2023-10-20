@@ -13,7 +13,7 @@ styles.css\
 createPDF.ejs\
 index.ejs\
 qrcode.min.js\
-server.js\
+server.js
 
 Bugs\
 Responsive settings for tablet needs reformattting.\
